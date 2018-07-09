@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Simulator</string>
+
+    <string name="q1">My name is tridib </string>
+    <string name="q2">Lict is best training</string>
+    <string name="q3">I am short boy</string>
+    <string name="q4">Bangldesh is densely populated country</string>
+    <string name="q5">I am a dead person</string>
+</resources>
